@@ -6,6 +6,6 @@ https://github.com/ybezhihe/domashka
 
  № | Описание | Ссылка 
  ---|:---:|---:
- 1|Игра "Виселица"|https://github.com/ybezhihe/python2018/blob/master/дз1_виселица/виселица.py
+ 1|Игра "Виселица"|[Отстой](https://github.com/ybezhihe/python2018/blob/master/дз1_виселица/виселица.py)
       
     
